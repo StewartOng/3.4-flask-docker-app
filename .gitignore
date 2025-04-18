@@ -14,7 +14,7 @@ crash.*.log
 # control as they are data points which are potentially sensitive and subject 
 # to change depending on the environment.
 *.tfvars
-*.tfvars.json
+*.tfvars.jsondocker push 255945442255.dkr.ecr.us-east-1.amazonaws.com/stewart-3.4flask-app-repo:latest
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
